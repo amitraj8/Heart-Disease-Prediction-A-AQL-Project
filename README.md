@@ -38,7 +38,7 @@ This project implements a hybrid optimization approach for heart disease predict
 
 **Features include**: age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal
 
-## 🏗️ Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Normalization using MinMaxScaler
@@ -84,15 +84,3 @@ This project implements a hybrid optimization approach for heart disease predict
 - Significant dimensionality reduction while maintaining/improving accuracy
 - Successful feature selection identified most discriminative attributes
 
-## Installation and Usage
-
-### Prerequisites
-- Python 3.8+
-- pip package manager
-
-### Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction.git
-cd Heart-Disease-Prediction
